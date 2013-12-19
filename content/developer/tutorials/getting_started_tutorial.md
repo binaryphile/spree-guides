@@ -62,7 +62,7 @@ The distribution of Spree as a Rubygem allows it to be used in a new Rails proje
 Let's start by creating a standard Rails application using the following command:
 
 ```bash
-$ rails _4.0.0_ new mystore
+$ rails _4.0.1_ new mystore
 ```
 
 ### Adding Spree to Your Rails Application
