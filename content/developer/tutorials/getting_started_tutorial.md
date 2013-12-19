@@ -37,7 +37,13 @@ If you are using OSX, a recommended approach is to install ImageMagick using [Ho
 $ brew install imagemagick
 ```
 
-If you are using Unix or Windows check out [Imagemagick.org](http://www.imagemagick.org/) for more detailed instructions on how to setup ImageMagick for your particular system.
+If you are using Ubuntu or another Debian-based Linux, use the following command:
+
+```bash
+$ sudo apt-get install imagemagick libmagickwand-dev
+```
+
+If you are using another Unix or Windows check out [Imagemagick.org](http://www.imagemagick.org/) for more detailed instructions on how to setup ImageMagick for your particular system.
 
 ### Installing Spree
 
